@@ -63,8 +63,6 @@ The project requires Python 3.9 or higher and the following packages:
 
 All required package versions and detailed dependency specifications are listed in the `requirement.txt` file.
 
----
-
 ## Reproducibility
 
 To replicate our analysis:
@@ -75,8 +73,6 @@ To replicate our analysis:
 
    * `dataset.csv`
    * Trained models from the `mymodel/` directory
-
----
 
 ## Citation
 
@@ -93,22 +89,15 @@ If you find this repository helpful for your research, please cite:
     author = {Bachtiar Herdianto and Romain Billot and Flavien Lucas and Marc Sevaux},
 }
 ```
----
 
 ## License
 
 This code is provided **for non-commercial research purposes only**. For commercial or business usage, please contact the authors for permission.
 
----
-
 ## Contact
 
 For questions, collaborations, or updates regarding this repository: [bachtiarherdianto@gmail.com](mailto:bachtiarherdianto@gmail.com)
 
----
-
 ## Acknowledgment
 
 This research was supported by the French Agence Nationale de la Recherche (ANR), under grant [ANR-20-THIA-0019 (AI@IMT)](https://anr.fr/Projet-ANR-20-THIA-0019) and [ANR-22-CE22-0016-01 (MAMUT)](https://anr.fr/Projet-ANR-22-CE22-0016). The dataset used in this project was generated from the instances and solutions provided in the paper [_"10,000 Optimal CVRP Solutions for Testing Machine Learning Based Heuristics"_ (AAAI 2022 Workshop ML4OR-22)](https://openreview.net/forum?id=yHiMXKN6nTl). We sincerely thank the authors of the paper for making their data publicly available. We also thank the contributors and the open-source community whose tools and libraries made this work possible
-
----
